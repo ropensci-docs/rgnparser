@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d020d68f81fda9a266799f6d3fd74bd6c775d978",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-03 22:40:06",
+    "files": 1,
+    "merge": false,
+    "message": "bump version for last PR\n"
+  },
+  "remote": "https://github.com/ropensci/rgnparser",
+  "pkg": "rgnparser"
+}
