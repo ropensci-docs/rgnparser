@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2be26db42f0cce1e6f88f12ccc8abe379ddc0460",
+    "author": "Alban Sagouis <25483578+AlbanSagouis@users.noreply.github.com>",
+    "time": "2023-12-13 08:38:29",
+    "files": 20,
+    "merge": true,
+    "message": "Merge pull request #34 from ropensci/joelnitta/issue33\n\nJoelnitta/issue33 - version 0.3.0 accepted on CRAN"
+  },
+  "repo": "https://github.com/ropensci/rgnparser",
+  "pkg": "rgnparser"
+}
