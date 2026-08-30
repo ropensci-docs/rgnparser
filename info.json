@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f3fa6f483d8f798284c37da9693ce905fa378986",
+    "author": "AlbanSagouis <alban.sagouis@idiv.de>",
+    "time": "2026-05-29T14:59:30Z",
+    "files": 2,
+    "merge": false,
+    "message": "docs(README): use pak::pkg_install instead of remotes::install_github\n"
+  },
+  "repo": "https://github.com/ropensci/rgnparser",
+  "pkg": "rgnparser",
+  "time": "2026-08-30T07:20:05Z"
+}
